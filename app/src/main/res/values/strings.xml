@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CloudMQTT Client</string>
+    <string name="mainActivityBtn">Next</string>
+
+    <!-- RegisterActivity -->
+    <string name="serverTextView">ServerUri:</string>
+    <string name="clientIdTextView">ClientId:</string>
+    <string name="usernameTextView">Username:</string>
+    <string name="passwordTextView">Password:</string>
+    <string name="serverPlainText"></string>
+    <string name="clientIdPlainText"></string>
+    <string name="usernamePlainText"></string>
+    <string name="passwordPlainText"></string>
+    <string name="connectToMqttServerBtn">Connect</string>
+
+    <!-- PubSubActivity -->
+    <string name="publishActivityBtn">Publish</string>
+    <string name="subscribeActivityBtn">Subscribe</string>
+    <string name="listOfSensors">View List</string>
+
+    <!-- PublishActivity -->
+    <string name="topicPubTextView">Topic</string>
+    <string name="messagePubTextView">Message</string>
+    <string name="messagePubPlainText"></string>
+    <string name="topicPubPlainText"></string>
+    <string name="publishBtn">Publish</string>
+
+
+    <string name="textprobe1"></string>
+    <string name="textprobe2"></string>
+
+    <!-- ListOfSensorsActivity -->
+    <string name="lightBtn">Light</string>
+    <string name="tempertureBtn">Temperature</string>
+
+    <!-- LightActivity -->
+    <string name="kitchenLightTextView">Kitchen</string>
+    <string name="kitchenLightToogleBtn"></string>
+    <string name="bedroomLightTextView">Bedroom</string>
+    <string name="bedroomLightSeekBar"></string>
+    <string name="livingLightTextView">Living</string>
+    <string name="livingLightToogleBtn"></string>
+    <string name="outsideLightTextView">Outside</string>
+    <string name="outsideLightToogleBtn"></string>
+
+
+</resources>
